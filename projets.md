@@ -1,5 +1,5 @@
 ## Portfolio de Valentin
 
-Bienvenue sur mon portfolio data ! Je regroupes ici differents projets realisees sur mon temps libre et en milieu pro.
+Bienvenue sur mon portfolio data ! Je regroupe ici différents projets réalisés sur mon temps libre et en milieu professionnel.
 
-### 📚 - Sommaire :
+## 📚 - Table des matières :
