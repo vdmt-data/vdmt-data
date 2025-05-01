@@ -7,7 +7,7 @@ Ici, ce sont mes projets en cours de realisation.
 
 | Projet  | Outils | Description |
 | ------------- | ------------- | ------------- |
-| 🍕 [JustCook.ai](https://github.com/vdmt-data/justcook.ai) | Python (Scraping, Data cleaning, Modelisation), Huggingface, NLP / LLM | Fine-tuning d'un modèle LLM Mistral-7B à partir de recettes nettoyées et prétraitées, récupérées depuis le site Marmiton. Le but est d'optimiser la sortie du modèle pour prédire des recettes de cuisine à partir d'ingrédients, d'ustensiles, de durée, etc. |
+| 🍕 [JustCook.ai](https://github.com/vdmt-data/justcook.ai) | Python (Scraping, Data cleaning, Modelisation, PyTorch), Huggingface, NLP / LLM | Fine-tuning d'un modèle LLM Mistral-7B à partir de recettes nettoyées et prétraitées, récupérées depuis le site Marmiton. Le but est d'optimiser la sortie du modèle pour prédire des recettes de cuisine à partir d'ingrédients, d'ustensiles, de durée, etc. |
 
 
 ## ✅ Projets terminés
