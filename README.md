@@ -16,7 +16,7 @@
 
 ### Mes projets
 
-🧑‍🔬 Ce GitHub regroupe certains de mes projets, vous pouvez y jeter un œil -> [ici]{https://github.com/vdmt-data/vdmt-data/blob/main/projets.md)
+🧑‍🔬 Ce GitHub regroupe certains de mes projets, vous pouvez y jeter un œil -> [ici](https://github.com/vdmt-data/vdmt-data/blob/main/projets.md)
 <!--
 **vdmt-data/vdmt-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
