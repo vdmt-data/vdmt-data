@@ -10,7 +10,7 @@
 
 🤝 Mon passé de formateur me suit toujours, et j'adore transmettre mon savoir. J'ai formé des centaines de personnes, aussi bien des étudiants que des professionnels, sur des technologies telles que Python et Linux.
 
-📝 Je partage par moment des articles que j'ecrit sur mon blog -> [ici](https://valentin-dumont.com)
+📝 Je partage par moments des articles que j'écris sur mon blog -> [ici](https://valentin-dumont.com)
 
 📨 Discutons sur [Linkedin](https://www.linkedin.com/in/valentin-dumont-data/)
 
