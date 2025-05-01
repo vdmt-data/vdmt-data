@@ -10,13 +10,13 @@
 
 🤝 Mon passé de formateur me suit toujours, et j'adore transmettre mon savoir. J'ai formé des centaines de personnes, aussi bien des étudiants que des professionnels, sur des technologies telles que Python et Linux
 
-📝 Je partage par moments des articles que j'écris sur mon blog -> [ici](https://valentin-dumont.com)
+📝 Je partage par moments des articles et projets que j'écris sur mon blog -> [ici](https://valentin-dumont.com)
 
 📨 Discutons sur [Linkedin](https://www.linkedin.com/in/valentin-dumont-data/)
 
 ### Mes projets
 
-
+🧑‍🔬 Ce GitHub regroupe certains de mes projets, vous pouvez y jeter un œil -> [ici]
 <!--
 **vdmt-data/vdmt-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
