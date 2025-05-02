@@ -12,9 +12,9 @@
 
 🔒 Ancien consultant en cybersécurité, je mets un point d'honneur à gérer le cycle de vie des données avec rigueur et éthique, en respectant strictement le RGPD.
 
-📝 Je partage par moments des articles et projets que j'écris sur mon blog -> [ici](https://valentin-dumont.com).
+📝 Je partage par moments des articles et projets que j'écris sur mon blog -> [ici](https://valentin-dumont.com)
 
-📨 Discutons sur [Linkedin](https://www.linkedin.com/in/valentin-dumont-data/).
+📨 Discutons sur [Linkedin](https://www.linkedin.com/in/valentin-dumont-data/)
 
 ### Mes projets
 
