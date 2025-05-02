@@ -8,7 +8,7 @@
 
 🧰 J'utilise principalement Python et SQL, ainsi que des environnements Linux. Pour la mise à l'échelle et la production, je me sers essentiellement d'AWS et de Spark. Le suivi de mes modèles se fait avec MLflow.
 
-🤝 Mon passé de formateur me suit toujours, et j'adore transmettre mon savoir. J'ai formé des centaines de personnes, aussi bien des étudiants que des professionnels, sur des technologies telles que Python et Linux.
+🤝 Mon passé de formateur me suit toujours, et j'adore transmettre mon savoir. J'ai formé des centaines de personnes, aussi bien des étudiants que des professionnels, sur des technologies comme Python et Linux, ainsi que dans le développement et l'administration de systèmes d'information.
 
 🔒 Ancien consultant en cybersécurité, je mets un point d'honneur à gérer le cycle de vie des données avec rigueur et éthique, en respectant strictement le RGPD.
 
