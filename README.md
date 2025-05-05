@@ -14,6 +14,8 @@
 
 📝 Je partage par moments des articles et projets que j'écris sur mon blog -> [ici](https://valentin-dumont.com)
 
+🌍 Je suis aussi bénévole en tant que data scientist chez [Data For Good](https://dataforgood.fr/), une association qui utilisent la data science pour créer un impact social positif et améliorer le bien-être des communautés.
+
 📨 Discutons sur [Linkedin](https://www.linkedin.com/in/valentin-dumont-data/)
 
 ### Mes projets
