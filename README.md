@@ -21,6 +21,8 @@
 ### Mes projets
 
 🧑‍🔬 Ce GitHub regroupe certains de mes projets, vous pouvez y jeter un œil -> [ici](https://github.com/vdmt-data/vdmt-data/blob/main/projets.md)
+
+👀 [Linkedin](https://www.linkedin.com/in/valentin-dumont-data/) • 💻 [Blog](https://valentin-dumont.com) • 🤗 [HuggingFace](https://huggingface.co/vdmt)
 <!--
 **vdmt-data/vdmt-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
