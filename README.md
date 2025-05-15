@@ -2,7 +2,7 @@
 
 👋 Salut, c'est Valentin.
 
-💼 Je suis un data scientist à la recherche d'une nouvelle équipe pour démarrer une nouvelle aventure.
+💼 Je suis un data scientist / machine learning engineer à la recherche d'une nouvelle équipe pour démarrer une nouvelle aventure.
 
 👀 Passionné par l'art de faire parler les données, je m'implique dans toutes les étapes, de la collecte à la modélisation. Mon travail consiste typiquement à récupérer des données, les nettoyer, les préparer pour des analyses prédictives, tester des hypothèses, et produire des rapports et insights afin de définir de nouvelles métriques. J'aime particulièrement construire des pipelines de données.
 
